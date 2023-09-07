@@ -1,4 +1,7 @@
 This is the first java project
-______________________________
+____________________________________________
 
 This is the second Commit of my java project
+____________________________________________
+
+This is the third commit of my java project
